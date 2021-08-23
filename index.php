@@ -203,7 +203,7 @@
 						<a href="tel:0913988796">SĐT: <b>0913.98.87.96</b></a>
 					</p>
 					<p style="font-size: 16px;margin: 0 0 10px;">
-						<a href="mailto:thuvinh2008@yahoo.com.vn">Email: trungtamphcntt@gmail.com</a>
+						<a href="mailto:trungtamphcntt@gmail.com">Email: trungtamphcntt@gmail.com</a>
 					</p>
 					<p style="font-size: 16px;margin: 0 0 10px;">
 						<a href="https://trungtamphcntt.vn">Website: https://trungtamphcntt.vn/</a>
@@ -249,7 +249,7 @@
 				</ul>
 				<div class="tt-footer-copyright">
 					Copyright &copy; <?php echo date("Y") ?> <b>Trung tâm phục hồi chức năng tâm thần</b>.
-					<span>Một sản phẩm của <a href="https://fattiesoftware.com/" style="color: #ec008c;font-weight: bold;text-shadow: #000000 0px 2px 1px;"><img src="https://fattiesoftware.com/images/fatties_purple_logo_only.png" style="vertical-align: middle;" width="21"> Fatties Software</a></span>
+					<span>Một sản phẩm của <a href="https://fattiesoftware.com/" style="color: #ec008c;font-weight: bold;text-shadow: #000000 0px 2px 1px;"><img src="https://fattiesoftware.com/images/fatties_purple_logo_only.png" style="vertical-align: middle;-webkit-filter: drop-shadow(0px 2px 0px #000000);" width="21"> Fatties Software</a></span>
 				</div>
 			</div>
 		</div>
