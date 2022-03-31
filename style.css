@@ -182,11 +182,11 @@ h4 {
 }
 
 .image1 {
-	background-image: url('/images/vinh.png');
+	background-image: url('images/vinh.png');
 }
 
 .image2 {
-	background-image: url('/images/vinh_tang_qua.jpg');
+	background-image: url('images/vinh_tang_qua.jpg');
 	margin-top: 55px;
 }
 
@@ -268,29 +268,29 @@ h3 {
 }
 
 .feat-image1 {
-	background-image: url('/images/featured_6.jpg');
+	background-image: url('images/featured_6.jpg');
 }
 
 .feat-image2 {
-	background-image: url('/images/featured_7.jpg');
+	background-image: url('images/featured_7.jpg');
 }
 
 .feat-image3 {
-	background-image: url('/images/featured_8.jpg');
+	background-image: url('images/featured_8.jpg');
 }
 
 .feat-image4 {
-	background-image: url('/images/featured_10.jpg');
+	background-image: url('images/featured_10.jpg');
 }
 
 .feat-image5 {
-	background-image: url('/images/featured_1.jpg');
+	background-image: url('images/featured_1.jpg');
 	background-size: auto 390px;
 	margin-bottom: 0;
 }
 
 .feat-image6 {
-	background-image: url('/images/featured_2.jpg');
+	background-image: url('images/featured_2.jpg');
 	margin-bottom: 0;
 }
 
